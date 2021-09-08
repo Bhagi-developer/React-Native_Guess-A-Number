@@ -49,5 +49,6 @@ Now there are many options for you to run the app in different places or platfor
 Now Here i have provide some pics of app screens.
 
 * Game Starting Screen
+*  ![compose-Blog image](https://github.com/Bhagi-developer/BlogPost/blob/main/GitHub_compose-img.png)
 * Game Main Screen
 * Game Over Screen
