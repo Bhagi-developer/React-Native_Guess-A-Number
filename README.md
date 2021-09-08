@@ -49,10 +49,10 @@ Now there are many options for you to run the app in different places or platfor
 Now Here i have provide some pics of app screens.
 
 * Game Starting Screen
- ![Start Game Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161313.png)
- ![Start Game Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161357.png)
+* ![Start Game Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161313.png)
+* ![Start Game Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161357.png)
 * Game Main Screen
- ![Game Main Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161417.png)
+* ![Game Main Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161417.png)
 * Game Over Screen
- ![Game End Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161506.png)
+* ![Game End Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161506.png)
 
