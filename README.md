@@ -34,8 +34,16 @@ Now there are many options for you to run the app in different places or platfor
 
 ## options on Expo Browser window to run app,
 1. you can run the app on Android studio virtual device.
-       * inorder to run the app on AVD(Android Virtual Device) you have to install the Android studio.
+* inorder to run the app on AVD(Android Virtual Device) you have to install the Android studio.
 2. you can run this in a browser
 3. you can run the app on physical device.
-        * inorder to run the app on Physical Device you have to install Expo Client app on that device
-        * open the Expo app and Scan the QR Code provide in Expo Browser Window.
+* inorder to run the app on Physical Device you have to install Expo Client app on that device
+* open the Expo app and Scan the QR Code provide in Expo Browser Window.
+
+
+## If You Run App Successfully!
+Now Here i have provide some pics of app screens.
+
+* Game Starting Screen
+* Game Main Screen
+* Game Over Screen
