@@ -54,3 +54,5 @@ Now Here i have provide some pics of app screens.
 * Game Main Screen
  ![Game Main Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161417.png)
 * Game Over Screen
+ ![Game End Screen](https://github.com/Bhagi-developer/Guess-A-Number/blob/main/assets/Screenshot%202021-09-08%20161506.png)
+
